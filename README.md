@@ -1,21 +1,21 @@
 # ConvertiseurCSVtoXApiMathador
 
-*ConvertiseurCSVtoXApiMathador* est un script java pour convertir les données du [jeu Mathador du réseau Canopé Bourgogne Franche-Comté] en [xAPI].
+*ConvertiseurCSVtoXApiMathador* est un script Java permettant de convertir des données d'utilisation du [jeu Mathador du réseau Canopé Bourgogne Franche-Comté] de manière à pouvoir utiliser la norme [xAPI].
 
 ## Installation
 
 ### À partir de la distribution source
 
-- unzip la source de distribution (`ConvCsvMathadorToXapi-1.0.zip`)
-- allez dans le dossier décompresser (`ConvertiseurCSVtoXApiMathador`)
-- éxécuter la commande *maven* (`mvn package`)
+- décompressez le fichier de la distribution source (`ConvCsvMathadorToXapi-1.0.zip`)
+- allez dans le dossier décompressé (`ConvertiseurCSVtoXApiMathador`)
+- exécutez la commande *maven* (`mvn package`)
 
-### À partir d'un IDE (comme eclipse)
+### À partir d'un IDE (Eclipse est donné en exemple)
 
-- unzip la source de distribution (`ConvCsvMathadorToXapi-1.0.zip`)
-- ouvrir eclipse IDE
-- `import...`, `Maven` -> `existing maven project`
-- (optionel) avant d'exécuter le programme, réalisé l'action suivante : `Run As` -> `Maven Install`
+- décompressez le fichier de la distribution source (`ConvCsvMathadorToXapi-1.0.zip`)
+- ouvrez Eclipse IDE
+- import..., Maven -> existing maven project
+- (optionel) avant l'exécution du programme faites : Run As -> Maven Install
 
 ## Usage
 
