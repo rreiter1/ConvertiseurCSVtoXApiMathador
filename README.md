@@ -14,8 +14,8 @@
 
 - unzip la source de distribution (`ConvCsvMathadorToXapi-1.0.zip`)
 - ouvrir eclipse IDE
-- import..., Maven -> existing maven project
-- (optionel) avant l"execution du programme faire un : Run As -> Maven Install
+- `import...`, `Maven` -> `existing maven project`
+- (optionel) avant d'exécuter le programme, réalisé l'action suivante : `Run As` -> `Maven Install`
 
 ## Usage
 
